@@ -1,4 +1,4 @@
-# 🎭 Data Storytelling: Uma Análise, Três Audiências
+#  Data Storytelling: Uma Análise, Três Audiências
 
 Este projeto foca em uma das habilidades mais raras e valorizadas em dados: a **tradução de insights**. 
 
@@ -6,7 +6,7 @@ O objetivo não é apenas gerar gráficos, mas construir narrativas específicas
 
 ---
 
-## 🎯 O Conceito
+##  O Conceito
 Dados são apenas ruído se não forem interpretados corretamente para o público certo. Neste repositório, demonstro como transformar a análise de **Otimização de Estoque** em três versões distintas:
 
 ### 1. Visão Executiva (C-Level)
@@ -24,12 +24,12 @@ Dados são apenas ruído se não forem interpretados corretamente para o públic
 - **Narrativa:** "Como os dados foram tratados e quais as limitações do modelo?"
 - **Visualização:** Histogramas de distribuição, análise de outliers e correlações.
 
-## 🛠️ Tecnologias Utilizadas
+##  Tecnologias Utilizadas
 - **Python**: Processamento e análise.
 - **Matplotlib & Seaborn**: Customização visual de acordo com a audiência.
 - **Pandas**: Consolidação das fontes de dados.
 
-## 📂 Estrutura do Repositório
+##  Estrutura do Repositório
 - `Storytelling_Across_Audiences.ipynb`: O coração do projeto, demonstrando a mudança de narrativa.
 - `inventory_data.csv`, `products_catalog.csv`, `sales_data.csv`: Bases de dados utilizadas.
 
